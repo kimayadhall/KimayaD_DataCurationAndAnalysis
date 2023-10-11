@@ -1,10 +1,11 @@
 # KimayaD_DataCurationAndAnalysis
 
 **Project Goal & Analysis (What I'm showing & Why):** 
-There is a lot of  surrounding who the best NBA players are and I wanted to take the raw data, peform ETL, to eventually anaylze and visualize it. From there I wanted to show visualizations with the data and my main interest was to see if career average points was the deciding factor in determining the ranks of the players. I was able to make a conclusion through the bar chart that will be displayed in the code.
+There is a lot of  surrounding who the best NBA players are and I wanted to take the raw data, peform ETL, to eventually anaylze and visualize it. From there I wanted to show visualizations with the data and my main interest was to see if career average points was the deciding factor in determining the ranks of the players; or just in general what role they play in the overall success of these players. I was able to make a conclusion through a bar chart, box plot, and scatterplot that will be displayed and explained in the code.
 
 **API documentation:** 
 N/A as no API was used;
+
 Libraries used: BeautifulSoup (to read and parse raw data), Pandas (to read csv), Matplotlib (to plot diagrams)
 
 **The license of data and any source data:** 
